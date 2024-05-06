@@ -1,5 +1,5 @@
 # Use the Ubuntu base image
-FROM ubuntu:nobel
+FROM ubuntu:noble
 
 # Install OpenSSH Server
 RUN apt-get update && \
